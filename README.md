@@ -1,3 +1,5 @@
 Codes related to the research associated to IIoT:
 
 - CNN+LSTM_for_IIoT: Code from paper published at http://dx.doi.org/10.1109/latincom56090.2022.10000468 (ELIAS, E. ; CARRIEL, V. ; OLIVEIRA, G. ; Dos SANTOS, A. L. ; NOGUEIRA, M ; HIRATA, R. ; BATISTA, D. M. . A Hybrid CNN-LSTM Model for IIoT Edge Privacy-Aware Intrusion Detection. In: IEEE Latin-American Conference on Communications (LATINCOM), 2022, Rio de Janeiro, RJ. Proceedings of the IEEE Latin-American Conference on Communications, 2022.)
+
+- ML+SDN+DADO_for_IIoT: Code from paper published at https://ieeexplore.ieee.org/document/9647803 (DE OLIVEIRA, GUILHERME WERNECK ; TOSCANO NEY, RODRIGO ; HERRERA, JUAN LUIS ; MACEDO BATISTA, DANIEL ; HIRATA, R. ; GALAN-JIMENEZ, JAIME ; BERROCAL, JAVIER ; MURILLO, JUAN MANUEL ; LUIZ DOS SANTOS, ALDRI ; NOGUEIRA, MICHELE . Predicting Response Time in SDN-Fog Environments for IIoT Applications. In: 2021 IEEE LatinAmerican Conference on Communications (LATINCOM), 2021, Santo Domingo. 2021 IEEE Latin-American Conference on Communications (LATINCOM), 2021. p. 1.)
